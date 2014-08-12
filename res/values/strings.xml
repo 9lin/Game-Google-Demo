@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Game-Google-Demo</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+	<string name="base64EncodedPublicKey">MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEApofambbkiCt07nvFmpKvTWAWTwWt3mdZq/Lqp4caIVpljS+984sjvymBQgmB9WK5KlIaeztgHDJ4C934UsqlYburbHGUbQnZWj8dxqB7BJPEr3vS/6yYCGY3xPF7kwuNTwDvL72UPjT7yX3zli7lvrO2FSMyusGz0OHY4GFlYPSyuF7BtLimSqPHejcHDhDjeATHD4rPq/46x79yoR3UVjXJMusdpgZGs62pgqEeVzytAR6PXpB9Ykl5WcUfTZA5jSvSisy/LZfhY3xxIPieBZiEzZonoxug23uSqj7bpUH41cDJG+EcIGTxtU4lOuMZW0TaPnUBWOmnb7gjqZAOCwIDAQAB</string>
+</resources>
