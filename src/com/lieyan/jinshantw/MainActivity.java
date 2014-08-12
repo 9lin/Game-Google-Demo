@@ -52,6 +52,7 @@ public class MainActivity extends Activity implements OnClickListener {
 		showMessage(TAG, tm.getDeviceId());
 		initGooglePlayInAppBilling();
 		init();
+		Log.i("tag","ÎûÎû¹þ¹þ£¡£¡");
 	}
 	
 	/**
